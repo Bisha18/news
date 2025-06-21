@@ -12,7 +12,6 @@ Welcome to **React News App** – a modern, responsive, and dynamic web applicat
 - 🧭 Easy navigation between different categories (e.g., Business, Sports, Tech)
 - 📱 Fully responsive UI (mobile-first design)
 - ⚡ Fast and lightweight (optimized React rendering)
-- 🌙 Dark mode ready (if supported in your UI)
 
 ---
 
